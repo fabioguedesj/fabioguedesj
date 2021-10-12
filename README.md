@@ -1,6 +1,6 @@
-## Olá, sou Fábio Guedes, amante de programação e tecnologia ;)
+## Hi, I'm Fabio Guedes, lover of coding and technology!
 
-Busco conhecimento diário nas áreas de:
+I'm looking for daily knowledge in the areas of:
 
 - Front-End
 - UX/UI Design
