@@ -25,22 +25,6 @@ Minhas principais vivências estão nas seguintes áreas:
 
 (*) Em Desenvolvimento (mas como eu aprendo rápido, logo logo esses asteriscos não vão estar mais aí 😉)
 
-Também quero falar das minhas Soft Skills:
-
-- Sou uma pessoa de atitudes positivas. Gosto de ver o lado bom das coisas. Houve um problema? Certo. O que podemos aprender com ele? O que fazer para que ele não se repita outra vez? Reclamações são pouco efetivas e não resultam em nada. Agir e aprender com os erros é o mais importante
-
-- Sou organizado e gosto de planejar meu dia.
-
-- Sou uma pessoa descontraída que adora interagir e deixar o ambiente de trabalho mais leve. Isso faz com que me afasta de empresas que tratem seus funcionários como robôs de produção.
-
-- Gosto de trabalhar com metas. Se elas não forem criadas, eu mesmo as crio.
-
-- Sou uma pessoa tranquila. Até mesmo sob pressão de prazos, por exemplo, busco manter a calma e encontrar a melhor solução que agrade as partes interessadas.
-
-- Tenho segurança e confiança em mim mesmo. Sei do meu valor e do quanto posso agregar com meu trabalho.
-
-- Considerado a comunicação um dos meus principais pontos fortes. Sei me colocar no lado da pessoa e apaziguar conflitos. Também tenho uma ótima capacidade de oratória, sendo capaz de falar para um público com centenas ou milhares de pessoas.
-
 
 <div align="center">
   <a href="https://github.com/fabioguedesj">
