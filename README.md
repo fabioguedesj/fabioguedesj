@@ -16,7 +16,7 @@ Minhas principais vivências estão nas seguintes áreas:
 
 • NodeJS
 
-• React *
+• ReactJS *
 
 (*) Em Desenvolvimento (mas como eu aprendo rápido, logo logo esses asteriscos não vão estar mais aí 😉)
 
