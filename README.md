@@ -9,9 +9,13 @@ Também tracei a meta de me tornar um grande nome no mercado de desenvolvimento 
 Minhas principais vivências estão nas seguintes áreas:
 
 • HTML 5
+
 • CSS 3
+
 • Javascript
+
 • NodeJS
+
 • React *
 
 (*) Em Desenvolvimento (mas como eu aprendo rápido, logo logo esses asteriscos não vão estar mais aí 😉)
