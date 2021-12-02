@@ -2,23 +2,10 @@
 
 Pronto! Agora que já gastei meu inglês no título, vamos seguir em português 😁
 
-Começando com um pouco mais sobre mim: sou um entusiasta em tecnologia, atualmente em transição de carreira e cursando o primeiro semeste de Análise e Desenvolvimento de Sistemas. Meu principal objetivo é me aprofundar cada dia mais na área de frontend através de cursos, webnários, palestras e livros.
+Sou um entusiasta em tecnologia, atualmente em transição de carreira e cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.
 
-Também tracei a meta de me tornar um grande nome no mercado de desenvolvimento WEB, ajudando pessoas a alcancarem seus objetivos e sonhos através da tecnologia. 
+Com o intuito de ajudar desenvolvedores a alcançarem seus objetivos e sonhos através da tecnologia, iniciei um canal no Youtube que vai servir de ponte para eu possa passar um pouco do meu conhecimento através de um material gratuito e de qualidade
 
-Minhas principais vivências estão nas seguintes áreas:
-
-• HTML 5
-
-• CSS 3
-
-• Javascript
-
-• NodeJS
-
-• ReactJS *
-
-(*) Em Desenvolvimento (mas como eu aprendo rápido, logo logo esses asteriscos não vão estar mais aí 😉)
 
 
 <div align="center">
