@@ -1,10 +1,6 @@
 ## Hi, I'm Fabio Guedes, lover of coding and technology!
 
-Pronto! Agora que já gastei meu inglês no título, vamos seguir em português 😁
-
-Sou um entusiasta em tecnologia, atualmente em transição de carreira e cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.
-
-Com o intuito de ajudar desenvolvedores a alcançarem seus objetivos e sonhos através da tecnologia, iniciei um canal no Youtube que vai servir de ponte para eu possa passar um pouco do meu conhecimento através de um material gratuito e de qualidade
+O que me norteia é ajudar desenvolvedores a alcançarem seus objetivos e sonhos através da tecnologia, por isso iniciei um canal no Youtube que vai servir de ponte para eu possa passar um pouco do meu conhecimento através de um material gratuito e de qualidade
 
 
 
