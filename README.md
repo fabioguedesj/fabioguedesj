@@ -1,6 +1,6 @@
 ## Hi, I'm Fabio Guedes, lover of coding and technology!
 
-O que me norteia é ajudar desenvolvedores a alcançarem seus objetivos e sonhos através da tecnologia, por isso iniciei um canal no Youtube que vai servir de ponte para eu possa passar um pouco do meu conhecimento através de um material gratuito e de qualidade
+Meu norte é ajudar desenvolvedores a alcançarem seus objetivos e sonhos através da tecnologia, por isso iniciei um canal no Youtube que vai servir de ponte para eu possa passar um pouco do meu conhecimento através de um material gratuito e de qualidade
 
 
 
