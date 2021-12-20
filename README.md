@@ -3,7 +3,7 @@
 📃 **Sobre:**
 
 - 💻 Entusiasta em tecnologia com foco em frontend
-- 🚀 Criador de conteúdo com sangue empreendedor
+- 🚀 Crio conteúdo para ajudar no crescimento da comunidade dev
 - ☕ Consumidor de Café
   
 ❤ **Meu batimento cardíaco <s>(brincadeira, são apenas minhas contribuições)</s>**
